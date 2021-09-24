@@ -39,6 +39,7 @@ Here is an example of the code working.
 ## Repository and live URL to code
 
 [Github](https://github.com/JuanjoRamirez262/password-generator)
+
 [Github page](https://juanjoramirez262.github.io/password-generator/)
 
 ### Author notes
